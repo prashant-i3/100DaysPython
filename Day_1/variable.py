@@ -4,7 +4,6 @@ print(name)
 name("Prashant")
 print(name)
 
-
 name("Pandey")
 print(name)
 

@@ -1,4 +1,4 @@
-# print("Hello World!") 
+print("Hello World!") 
 
 # String manipulation and code intelligence
 print("Hello World!\nHello World!")
