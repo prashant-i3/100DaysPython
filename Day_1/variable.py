@@ -16,7 +16,7 @@ b = input()
 
 # Don't change the code above
 #############################
-# Write your code here
+# Write your code below here
 c = a
 a = b
 b = c

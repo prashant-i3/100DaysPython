@@ -2,6 +2,7 @@
 a = input()
 b = input()
 
+
 # Don't change the code above
 #############################
 # Write your code here
